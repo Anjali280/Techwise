@@ -1,0 +1,27 @@
+/* Navbar CSS */
+nav {
+  background-color: #333;
+  margin-top: -15px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 10px;
+  margin-left: 390px;
+}
+
+li {
+  display: inline-flex;
+  margin-right: 100px;
+  line-height: 50px;
+}
+
+a {
+  color: #fff;
+  text-decoration: none;
+  /* padding: 10px; */
+}
+
+a:hover {
+  background-color: #555;
+}
